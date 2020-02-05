@@ -2,9 +2,7 @@ import 'react-app-polyfill/ie11';
 import 'react-app-polyfill/stable';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
 import { BrowserRouter, Route,Switch  } from 'react-router-dom';
 import EmployeeDetails from './Components/EmployeeDetails';
 import DepartmentDetails from './Components/DepartmentDetails';
@@ -23,4 +21,3 @@ ReactDOM.render(<Provider store={store}><BrowserRouter>
     </Switch>
 </BrowserRouter></Provider>, document.getElementById('root'));
 
-serviceWorker.unregister();

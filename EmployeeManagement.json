@@ -2,34 +2,34 @@
   "Employee": [
     {
       "id": "2",
-      "FirstName": "Sanjupriya",
-      "LastName": "Manikyala",
+      "FirstName": "alen",
+      "LastName": "amal",
       "Age": "24",
-      "Email": "sanjupriya@gmail.com",
+      "Email": "amal@gmail.com",
       "DepartmentID": "12"
     },
     {
       "id": "3",
-      "FirstName": "Manohar",
-      "LastName": "Jooripala",
+      "FirstName": "alex",
+      "LastName": "kiran",
       "Age": "25",
-      "Email": "manohar@gmail.com",
+      "Email": "alex@gmail.com",
       "DepartmentID": "12"
     },
     {
       "id": "10",
-      "FirstName": "Subhaga",
+      "FirstName": "joseph",
       "LastName": "Anilkumar",
       "Age": "24",
-      "Email": "subhaga@bjsn.com",
+      "Email": "joseph@bjsn.com",
       "DepartmentID": "50"
     },
     {
       "id": "100",
-      "FirstName": "Bhavya",
+      "FirstName": "krishna",
       "LastName": "Naidu",
       "Age": "24",
-      "Email": "bhavya@ghskj.com",
+      "Email": "veer@ghskj.com",
       "DepartmentID": "11"
     }
   ],
